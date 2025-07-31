@@ -1,5 +1,5 @@
-package Workshop;
 
+package Workshop;
 class Vehicle {
     String vehicleNumber;
     int capacity;
